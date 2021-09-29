@@ -1,7 +1,7 @@
-.container-fluid{
+/* .container-fluid{
     background-color: chartreuse;
     height: 100vh;
-}
+} */
 
 #site_header, #site_footer{
     background-color: rgb(44, 62, 80);
@@ -23,6 +23,15 @@
 }
 
 
+#site_header > div{
+    border: 1px solid black;
+    background-color: cadetblue;
+}
+
 #main_hero > div{
     background-color: seagreen;
+}
+
+#about > div.col-8{
+    background-color: sienna;
 }

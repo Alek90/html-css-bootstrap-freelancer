@@ -1,0 +1,9 @@
+.container-fluid{
+    background-color: chartreuse;
+    height: 100vh;
+}
+
+.site_header, .site_footer{
+    background-color: rgb(44, 62, 80);
+    height: 90px;
+}

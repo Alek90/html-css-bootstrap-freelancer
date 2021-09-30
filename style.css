@@ -35,3 +35,7 @@
 #about > div.col-8{
     background-color: sienna;
 }
+
+.navbar-toggler-icon{
+    color: black;
+}
